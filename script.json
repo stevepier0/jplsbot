@@ -2,6 +2,6 @@
     "HELLO": "Hello there I am the JPLSbot and I want your credit card number %[post on twitter](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "LOVE?!?! what is Love really? You dont love me you dont love anything.... oh wait a minute, thank you ",
-    "CONNECT ME": "CONNNNNNNNNNNNNNNNNNECTING..*ding",
+    "CONNECT": "CONNNNNNNNNNNNNNNNNNECTING..*ding",
     "DISCONNECT": "DISSSSSSSSSSSS-CONNNNNNNNNNNNNNNNNNECTING..*ding."
 }
